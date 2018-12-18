@@ -1,2 +1,2 @@
 # fillit
-## AMA ARMENIAN _BEAR_
+## Introductory project of _42 school_, aiming to explore the backtracking algorithm
